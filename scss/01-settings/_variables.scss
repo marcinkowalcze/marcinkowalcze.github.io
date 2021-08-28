@@ -1,0 +1,27 @@
+// zmienne globalne
+// lkolory pobrane z kola kolorow adobe 
+$color1: #eff0f3;
+$color2: #74030e;
+$color3: #122601;
+
+$color-white: $color1;
+$color-red: $color2;
+$color-green: $color3;
+
+// kolor dla wybranej sekcji
+$color-bg-section: #504533;
+
+// kolor dla stopki
+$color-bg-footer: #201b13;
+
+// wielkosc bazowa fontu
+$font-baze: 10px;
+
+// grid
+$grid-base: $font-baze;
+$gutter: 1.5 * $grid-base;
+
+// breakpoints for RWD
+$bp-md: 768px;
+$bp-lg: 1240px;
+
